@@ -1,1 +1,1 @@
-my first readme
+day zero trainings
